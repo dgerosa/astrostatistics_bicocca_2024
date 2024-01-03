@@ -103,6 +103,8 @@ We will make heavy usage of the python programming language. If you need to refr
 ## Past editions
 
 - 2022: [dgerosa/astrostatistics_bicocca_2022](https://github.com/dgerosa/astrostatistics_bicocca_2022)
+- 2023: [dgerosa/astrostatistics_bicocca_2022](https://github.com/dgerosa/astrostatistics_bicocca_2023)
+
 
 ## A huge thanks to:
 
