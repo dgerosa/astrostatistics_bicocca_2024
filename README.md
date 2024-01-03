@@ -1,7 +1,7 @@
 # Astrostatistics and Machine Learning
 
 [Davide Gerosa](https://davidegerosa.com/)  - davide.gerosa@unimib.it  
-University of Milano-Bicocca, 2023.
+University of Milano-Bicocca, 2024.
 
 
 
