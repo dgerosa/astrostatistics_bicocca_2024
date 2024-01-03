@@ -1,6 +1,8 @@
-## 2023 class schedule
+## 2024 class schedule
 
-Our weekly timeslots are Wednesday at 10.30am-12.30pm and Friday at 8.30am-10.30am. We're in room U2-05 on the main Bicocca campus.
+Our weekly timeslots are Monday at 8.30am-10.30am and Thursday at 10.30am-12.30pm. We're in room U2-05 on the main Bicocca campus.
+
+**[2024 calendar still in preparation...]**
 
 Here is the class calendar (note a few extra lectures on different days/times as well as few weeks where we're going to skip classes).
 
