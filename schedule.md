@@ -12,7 +12,7 @@ Here is the class calendar (note a few extra lectures on different days/times as
  - **21-03-24, 10.30am.**
  - **25-03-24, 8.30am.**
  - **04-04-24, 10.30am.** (away for research)
- - **08-04-24, 8.30am.** (away for research)
+ - **08-04-24, 8.30am.**
  - **11-04-24, 10.30am.**
  - **15-04-24, 8.30am.**
  - **18-04-24, 10.30am.**
