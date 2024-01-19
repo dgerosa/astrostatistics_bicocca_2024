@@ -1,2 +1,3 @@
 .DS_Store
-.ipynb_checkpointslectures/fig_correlations_dump.pkl
+.ipynb_checkpoints
+lectures/fig_correlations_dump.pkl
