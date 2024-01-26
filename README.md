@@ -60,11 +60,6 @@ At various points during the lectures you fill find some **"Time to get your han
 
 Credits: [Steve Taylor](https://stevertaylor.github.io/) (Vanderbilt)
 
-## Schedule
-
-The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. This year's schedule and lecture skeleton is available [here](schedule.md)
-
-
 ## Textbook and Resources
 
 The **main textbook** we will be using is:
@@ -99,6 +94,37 @@ We will make heavy usage of the python programming language. If you need to refr
 - ["Lectures on scientific computing with Python"](https://github.com/jrjohansson/scientific-python-lectures), R. Johansson et al.  
 - [Python Programming for Scientists"](https://astrofrog.github.io/py4sci/), T. Robitaille et al.
 - ["Learning Scientific Programming with Python"](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237), Hill, Cambridge University Press, 2020. Supporting code: [scipython.com](https://scipython.com/).
+
+## 2024 class schedule
+
+The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly timeslots are Monday 8.30am-10.30am (sorry) and Thursday 10.30am-12.30pm. Note a few extra lectures on different days/times as well as a few weeks where we're going to skip classes). We're in room U2-05 on the main Bicocca campus.
+
+[This is still preliminary]
+
+ - **04-03-24, 8.30am.**
+ - **07-03-24, 10.30am.**
+ - **11-03-24, 8.30am.**
+ - **14-03-24, 10.30am.**
+ - **18-03-24, 8.30am.** (BSc defenses?)
+ - **21-03-24, 10.30am.**
+ - **25-03-24, 8.30am.**
+ - **04-04-24, 10.30am.** (away for research)
+ - **08-04-24, 8.30am.**
+ - **11-04-24, 10.30am.**
+ - **15-04-24, 8.30am.**
+ - **18-04-24, 10.30am.** (away for research)
+ - **22-04-24, 8.30am.**
+ - **29-04-24, 8.30am.**
+ - **02-05-24, 10.30am.**
+ - **06-05-24, 8.30am.**
+ - **09-05-24, 10.30am.**
+ - **13-05-24, 8.30am.**
+ - **16-05-24, 10.30am.**
+ - **20-05-24, 8.30am.**
+ - **23-05-24, 10.30am.**
+ - **27-05-24, 8.30am.**
+ - **30-05-24, 10.30am.**
+
 
 ## Past editions
 
