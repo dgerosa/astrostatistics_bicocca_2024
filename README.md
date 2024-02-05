@@ -6,7 +6,7 @@ University of Milano-Bicocca, 2024.
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgerosa/astrostatistics_bicocca_2023/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgerosa/astrostatistics_bicocca_2024/HEAD)
 &emsp; [![](https://custom-icon-badges.herokuapp.com/badge/launch-unimib%20virtual%20machine-orange.svg?logo=container&logoColor=white)](https://libaas-lessons.si.unimib.it)
 
 
