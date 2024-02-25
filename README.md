@@ -99,8 +99,6 @@ We will make heavy usage of the python programming language. If you need to refr
 
 The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly timeslots are Monday 8.30am-10.30am (sorry) and Thursday 10.30am-12.30pm. Note a few extra lectures on different days/times as well as a few weeks where we're going to skip classes). We're in room U2-05 on the main Bicocca campus.
 
-[This is still preliminary]
-
  1. **04-03-24, 8.30am.**
  2. **07-03-24, 10.30am.**
  3. **11-03-24, 8.30am.**
@@ -117,6 +115,7 @@ The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly 
  11. **22-04-24, 8.30am.**
  - 25-04-24 Holiday
  12. **29-04-24, 8.30am.**
+ - **30-04-24 8.30** Extra lecture?  
  13. **02-05-24, 10.30am.**
  14. **06-05-24, 8.30am.**
  15. **09-05-24, 10.30am.**
