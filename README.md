@@ -90,7 +90,7 @@ There are many **other good resources** in astrostatistics, here is a partial li
 
 We will make heavy usage of the python programming language. If you need to refresh your **python skills**, here are some catch-up resources and online tutorials. A strong python programming background is essential in modern astrophysics!   
 
-- ["Scientific Computing with Pythion"](https://github.com/dgerosa/scientificcomputing_bicocca_2023), D. Gerosa. This is a class I teach for the PhD School here at Milano-Bicocca.
+- ["Scientific Computing with Python"](https://github.com/dgerosa/scientificcomputing_bicocca_2023), D. Gerosa. This is a class I teach for the PhD School here at Milano-Bicocca.
 - ["Lectures on scientific computing with Python"](https://github.com/jrjohansson/scientific-python-lectures), R. Johansson et al.  
 - [Python Programming for Scientists"](https://astrofrog.github.io/py4sci/), T. Robitaille et al.
 - ["Learning Scientific Programming with Python"](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237), Hill, Cambridge University Press, 2020. Supporting code: [scipython.com](https://scipython.com/).
@@ -99,31 +99,33 @@ We will make heavy usage of the python programming language. If you need to refr
 
 The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly timeslots are Monday 8.30am-10.30am (sorry) and Thursday 10.30am-12.30pm. Note a few extra lectures on different days/times as well as a few weeks where we're going to skip classes). We're in room U2-05 on the main Bicocca campus.
 
-[This is still preliminary]
-
- - **04-03-24, 8.30am.**
- - **07-03-24, 10.30am.**
- - **11-03-24, 8.30am.**
- - **14-03-24, 10.30am.**
- - **18-03-24, 8.30am.** (BSc defenses?)
- - **21-03-24, 10.30am.**
- - **25-03-24, 8.30am.**
- - **04-04-24, 10.30am.** (away for research)
- - **08-04-24, 8.30am.**
- - **11-04-24, 10.30am.**
- - **15-04-24, 8.30am.**
- - **18-04-24, 10.30am.** (away for research)
- - **22-04-24, 8.30am.**
- - **29-04-24, 8.30am.**
- - **02-05-24, 10.30am.**
- - **06-05-24, 8.30am.**
- - **09-05-24, 10.30am.**
- - **13-05-24, 8.30am.**
- - **16-05-24, 10.30am.**
- - **20-05-24, 8.30am.**
- - **23-05-24, 10.30am.**
- - **27-05-24, 8.30am.**
- - **30-05-24, 10.30am.**
+ 1. **04-03-24, 8.30am.**
+ 2. **07-03-24, 10.30am.**
+ 3. **11-03-24, 8.30am.**
+ 4. **14-03-24, 10.30am.**
+ 5. **18-03-24, 8.30am.** (graduation committee?)
+ 6. **21-03-24, 10.30am.**
+ 7. **25-03-24, 8.30am.**
+ - 28-03-24 Holiday
+ - 04-04-24, Davide is away for research
+ 8. **08-04-24, 8.30am.**
+ 9. **11-04-24, 10.30am.**
+ 10. **15-04-24, 8.30am.**
+ - 18-04-24, Davide is away for research
+ 11. **22-04-24, 8.30am.**
+ - 25-04-24 Holiday
+ 12. **29-04-24, 8.30am.**
+ 13 **30-04-24 10.30** (Note additional day!)  
+ 14. **02-05-24, 10.30am.**
+ 15. **06-05-24, 8.30am.**
+ 16. **09-05-24, 10.30am.**
+ 17. **13-05-24, 8.30am.**
+ - 14-05-24, 8.30am. Could add a lecture here if we need it.
+ 18. **16-05-24, 10.30am.**
+ 19. **20-05-24, 8.30am.**
+ 20. **23-05-24, 10.30am.**
+ 21. **27-05-24, 8.30am.**
+ -  30-05-24, 10.30am. Could add a lecture here if we need it.
 
 
 ## Past editions
