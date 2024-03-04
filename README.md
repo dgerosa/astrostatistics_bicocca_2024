@@ -120,7 +120,6 @@ The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly 
  15. **06-05-24, 8.30am.**
  16. **09-05-24, 10.30am.**
  17. **13-05-24, 8.30am.**
- - 14-05-24, 8.30am. Could add a lecture here if we need it.
  18. **16-05-24, 10.30am.**
  19. **20-05-24, 8.30am.**
  20. **23-05-24, 10.30am.**
