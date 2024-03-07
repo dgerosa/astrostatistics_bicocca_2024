@@ -104,7 +104,7 @@ The class covers 6 credits = 42 hours = 21 lectures of 2 hours each. Our weekly 
  3. **11-03-24, 8.30am.**
  4. **14-03-24, 10.30am.**
  - 18-03-24, 8.30am. Davide in a graduation committee
- 5. **19-03-24, 9.30am.** (Note different day!) 
+ 5. **19-03-24, 8.30am.** (Note different day!) 
  6. **21-03-24, 10.30am.**
  7. **25-03-24, 8.30am.**
  - 28-03-24 Holiday
