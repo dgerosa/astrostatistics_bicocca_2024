@@ -2,3 +2,5 @@
 .ipynb_checkpoints
 lectures/fig_correlations_dump.pkl
 hidden
+Summary_table.txt
+stars.csv
