@@ -9,4 +9,9 @@ lectures/SVM_rrlyrae.pkl
 lectures/photoz_boosting.pkl
 lectures/photoz_forest.pkl
 solutions/sample_2e7_design_precessing_higherordermodes_3detectors.h5
+lectures/NNphotoz.pkl
+lectures/logstrained/
+lectures/my_keras_model.h5
+lectures/trained_2e7_design_precessing_higherordermodes_3detectors.h5
+
 
